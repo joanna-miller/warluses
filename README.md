@@ -11,7 +11,7 @@
 
 ## Description
 
-_A simple webpage with info, locations, and a photo... all dedicated to the majestic walrus!_
+_A simple webpage with info, locations, and a photo... all dedicated to the majestic walrus! Also includes various HTML and CSS pages practicing floats, columns, and boxes_
 
 ## Setup/Installation Requirements
 
